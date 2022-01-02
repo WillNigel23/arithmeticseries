@@ -6,10 +6,7 @@ Assembly program that gets the sum of an arithmetic series.
 You are to create an assembly program that would get the sum of an arithmetic series.
 
 ## Procedure
-The program should accept a starting number 𝑎𝑎0 , a common difference 𝑑𝑑, and the last number 
-𝑎𝑎𝑛𝑛. Your program should display the arithmetic series, ∑ 𝑏𝑏𝑘𝑘𝑛𝑛𝑖𝑖=0  such that, 𝑏𝑏0 = 𝑎𝑎0 and 𝑏𝑏𝑛𝑛−1 <
-𝑎𝑎𝑛𝑛 ≤𝑏𝑏𝑛𝑛. Your program should also check for errors from the very start, such as 𝑎𝑎0 > 𝑎𝑎𝑛𝑛 when 
-𝑑𝑑  >  0. 
+The program should accept a starting number, a common difference, and the last number. Your program should also check for errors from the very start.
 
 ## Usage
 Compiling/Running:
