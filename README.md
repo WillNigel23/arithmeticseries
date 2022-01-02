@@ -14,7 +14,9 @@ The program should accept a starting number 𝑎𝑎0 , a common difference 𝑑
 ## Usage
 Compiling/Running:
 > nasm -f elf aseries.asm
+> 
 > gcc aseries.o -o aseries -m32
+> 
 > ./aseries
 
 Required lib: gcc-multilib g++multilib
