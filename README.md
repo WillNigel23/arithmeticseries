@@ -1,6 +1,6 @@
 ## Arithmetic Series
 Assembly program that gets the sum of an arithmetic series.
-> Authors: Cedric Caquilala, Will Nigel De Jesus
+> Author: Will Nigel De Jesus
 
 ## Task
 You are to create an assembly program that would get the sum of an arithmetic series.
