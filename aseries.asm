@@ -1,5 +1,4 @@
 ; Arithmetic Series
-; Cedric Caquilala
 ; Will Nigel De Jesus
 
 ; -----------Usage-------------
